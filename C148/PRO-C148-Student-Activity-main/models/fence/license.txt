@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fence
+* source:	https://sketchfab.com/3d-models/fence-b112862756ed48b3ab8ee83f5bae9759
+* author:	Miguel-Angel (https://sketchfab.com/Miguel-Angel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fence" (https://sketchfab.com/3d-models/fence-b112862756ed48b3ab8ee83f5bae9759) by Miguel-Angel (https://sketchfab.com/Miguel-Angel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
